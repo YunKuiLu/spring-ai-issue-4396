@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-ai-issue-4396
+  ai:
+    mcp:
+      server:
+        protocol: stateless
